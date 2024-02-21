@@ -28,7 +28,6 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   animate_do: ^2.1.0
-  bloc: ^8.0.3
   cached_network_image: ^3.2.1
   card_loading: ^0.1.5
   connectivity_plus: ^2.3.3
@@ -37,7 +36,6 @@ dependencies:
   easy_splash_screen: ^1.0.3
   flutter:
     sdk: flutter
-  flutter_bloc: ^8.0.1
   flutter_launcher_icons: ^0.9.3
   http: ^0.13.4
   like_button: ^2.0.4
